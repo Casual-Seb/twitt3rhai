@@ -1,1 +1,68 @@
 # twitt3rhai
+
+#justdoit, or make your ROBOTS do it. Transfer teXt to an ediTor
+Tigerhai HvithaiHammerhaiHvalhai Oksehai Domenehai Brugde
+Brugde DomenehaiTigerhaiHvithai Hvalhai Hammerhai Oksehai
+HammerhaiJaws   Fish   Hvalhai Oksehai Domenehai Tigerhai
+HvithaiHaiene   Tail   Tigerhai DomenehaiBrugde Hammerhai
+HåbrannBrugde   Fins   HammerhaiBrugde HvithaiHvalhaiJaws
+HvithaiHammer          Domenehai Tigerhai Oksehai Hvalhai
+DomenehaiJaws   Mako   HåbrannHvithai HvalhaiTigerhaiMako
+BrugdeOksehai   Apex   Tigerhai HvalhaiDomenehaiHammerhai
+HvithaiBrugde   Jaws   HammerhaiOksehai BrugdeTigerhaiHai
+Brugde HvalhaiHvithaiDomenehai Oksehai Tigerhai Hammerhai
+TigerhaiHvithaiOksehai BrugdeHammerhaiHvalhaiDomenehaiHai
+HvithaiHvalhai   BrugdeOksehaiDomenehai HammerhaiTigerhai
+HvithaiSjøen   H   TigerhaiOksehai DomenehaiHvalhaiBrugde
+Hammerhaien   Hai   Domenehai HvalhaiBrugdeHvithaiOksehai
+HvithaiHai           DomenehaiHvalhai Hammerhai Oksehaien
+HvithaiHai   Havet   Oksehai TigerhaiHvalhaiDomenehaiApex
+OksehaiHai   Sjøen   HvalhaiBrugde HvithaiHammerhaiBrugde
+BrugdeJaws   Finne   Brugde HvithaiHvalhaiTigerhai Haiene
+HammerhaiDomenehaiBrugdeOksehaiTigerhai HvalhaiHvithaiHai
+HvalhaiBrugdeTigerhaiHammerhaiHvithai Oksehai Domenehaien
+Domenehaier           OksehaiHvithai HammerhaiHvalhai Hai
+OksehaiTigerhai   HvalhaiDomenehaiHammerhai BrugdeHvithai
+DomenehaiBrugde   TigerhaiHammerhai HvithaiHvalhaiOksehai
+BrugdeHvithaien   HammerhaiDomenehaiHvalhai Tigerhai Mako
+TigerhaiHvalhai   BrugdeDomenehaiHvithai OksehaiHammerhai
+BrugdeOksehaien   HammerhaiHvalhaiDomenehai HvithaiBrugde
+HvithaiJaws           HaiHvalhaiHammerhai BrugdeDomenehai
+DomenehaiTigerhaiHammerhaiHvithaiBrugdeOksehai HvalhaiHai
+TigerhaiHvithaiBrugdeHvalhaiOksehai Domenehai Hammerhaien
+BrugdeTigerhaiHammerhai   DomenehaiHvalhai OksehaiHvithai
+DomenehaiOksehaiSjøen     HammerhaiHvalhaiTigerhaiHåbrann
+Hammerhai HvithaiBrugde   OksehaiHvalhai BrugdeTigerhaien
+HvithaiBrugdeOksehaiHai   TigerhaiDomenehai HvalhaiBrugde
+HvalhaiOksehaiDomenehai   TigerhaiBrugde HammerhaiHvithai
+Tigerhai HvithaiOksehai   HammerhaiDomenehaiBrugdeHvalhai
+HvithaiOksehaiBrugde         Hammerhai Tigerhai Domenehai
+HvalhaiHammerhaiHvithaiBrugdeTigerhai OksehaiDomenehaiHai
+DomenehaiHvithaiBrugdeTigerhaiHammerhai Hvalhai Oksehaien
+OksehaiBrugdeBrugde         Hvithai DomenehaiTigerhaiApex
+HvalhaiHvithaiJaws   Haier   DomenehaiHammerhaiTigerhaien
+TigerhaiBrugdeOksehaiSjøen   Domenehai HvalhaiHammerhaien
+DomenehaiHammerhaiHavet     BrugdeOksehai HvithaiTigerhai
+HvalhaiHammerhaiHvithaiHai   Brugde Oksehaien Domenehaien
+DomenehaiBrugdeHai   Havet   Hammerhai Hvalhai Tigerhaien
+HvalhaiOksehaiBrugde        BrugdeDomenehaiTigerhaiBrugde
+Hvithai DomenehaiBrugdeHammerhaiTigerhaiHvalhai Oksehaien
+HvalhaiBrugdeHvithaiDomenehaiOksehai Tigerhai Hammerhaien
+BrugdeHvithaiBrugde         HammerhaiTigerhaiHvalhaiSjøen
+Domenehai Tigerhai   Sjøen   HvithaiHammerhai Brugde Jaws
+OksehaiBrugdeHvalhaiHvitha   Domenehai Tigerhai Hammerhai
+TigerhaiHammerhaiHavet     HvalhaiHvithai BrugdeDomenehai
+TigerhaiDomenehaiHammerhai   Hvalhai HvithaiOksehaiBrugde
+HvithaiDomenehaien   Finne   HammerhaiHvalhaiBrugdeBrugde
+BrugdeOksehaiBrugden        Hammerhai Hvithai Domenehaien
+HvithaiBrugde TigerhaiOksehaiDomenehaiHammerhai Hvalhaien
+DomenehaiHammerhaiOksehaiHvithaiHvalhai Brugde Tigerhaien
+HammerhaiTigerhai           DomenehaiHvithaiBrugdeHvalhai
+HvalhaiBrugdeHvit   Haier   OksehaiTigerhai Domenehai Hai
+OksehaiBrugdeHvithaiJaws   HavetDomenehai TigerhaiHvalhai
+DomenehaiHvithaiHåbrann   Hammerhai Brugde OksehaiHvalhai
+DomenehaiHvalhaiBrugde   OksehaiBrugdeHammerhai Hvithaien
+DomenehaiTigerhaiApex   Hammerhai Hvithai Hvalhai Oksehai
+OksehaiHammerhaiJaws   DomenehaiTigerhaiBrugdeHvalhaiJaws
+Hvalhai HvithaiTigerhaiDomenehaiBrugdeHammerhai Oksehaien
+Håbrann TigerhaiOksehaiHvithaiBrugdeHvalhaiHammerhaiHavet
